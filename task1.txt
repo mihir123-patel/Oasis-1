@@ -1,0 +1,9 @@
+🌼 Kicking Off Oasis Task 1: Iris Flower Classification Using Machine Learning! 🌼
+
+Thrilled to be working on my first task with Oasis, where I’m tackling the classic Iris flower dataset! This project involves building a machine learning model that can classify the three Iris species—Setosa, Versicolor, and Virginica—based on their unique measurements. 🌿
+
+Using features like petal and sepal dimensions, I’ll be training and fine-tuning the model to recognize patterns and accurately distinguish between species. This task not only deepens my understanding of classification techniques but also highlights the importance of foundational datasets in ML.
+
+Stay tuned as I share more about the process and insights from this exciting journey into flower classification with Scikit-learn!
+
+#OasisTask1 #MachineLearning #IrisFlower #DataScience #Python #ScikitLearn #ArtificialIntelligence #Classification
